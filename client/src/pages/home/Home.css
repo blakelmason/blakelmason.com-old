@@ -1,0 +1,28 @@
+.home-enter {
+  opacity: 0.01;
+}
+
+.home-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.home-leave {
+  opacity: 1;
+}
+
+#meImage {
+  width: 307px;
+  float: left
+}
+
+#meInfo {
+  line-height: 2;
+}
+
+@media only screen and (max-width: 550px) {
+  #meImage {
+    width: 100%;
+    margin-bottom: 10px !important;
+  }
+}

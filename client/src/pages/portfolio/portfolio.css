@@ -1,0 +1,14 @@
+.image-rectangle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+
+.image-fill {
+  opacity: 0;
+}
+
+.card {
+  box-shadow: 0px 0px 10px #777777;
+}
