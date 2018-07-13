@@ -7,7 +7,7 @@
   animation: 1s fadeIn;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 576px) {
   h3 {
     text-align: center !important;
   }

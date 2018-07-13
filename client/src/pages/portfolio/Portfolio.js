@@ -33,9 +33,9 @@ const PortfolioCard = (props) => {
   return (
     <div className="col-12 col-sm-6 col-lg-4 pb-3">
       <div className="card border-0">
-        <div className="position-relative bg-dark rounded-top">
-          <img className="card-img-top image-rectangle" src={props.image} alt="Card" />
+        <div className="position-relative rounded-top">
           <img className="card-img-top image-fill" src={fill} alt="Card" />
+          <img className="card-img-top image-rectangle" src={props.image} alt="Card" />
         </div>
         <div className="card-body rounded-bottom bg-white">
           <a href={props.href} target="__blank" className="btn btn-light w-100 border">{props.text}</a>
