@@ -19,7 +19,7 @@ export default class Home extends Component {
                 Before I met my wife I learned to country swing dance and took some ballroom dance classes. My first date with my wife I took her out country swing dancing and it was awesome. I still love dancing and I want to learn more partner dances. The latin ones sound fun, like salsa and bachata.
               </p>
               <p>
-                Right now I have a baby daughter, her name is Rosalie. I also just began a coding bootcamp at UC Irvine. It is really fast paced, but I don't mind because the material is very interesting. By now you are probably thinking that it's good for me to learn coding, because a writing career is definitely not in my future.
+                Right now I have a baby daughter, her name is Rosalie. I also just began a coding bootcamp at UC Irvine. It is really fast paced, but I don't mind because the material is very interesting. By now you are probably thinking that it's good for me to learn coding, because a writing career is definitely not in my future. Anyway, thanks for reading this far and checking out my website!
               </p>
             </div>
           </div>
