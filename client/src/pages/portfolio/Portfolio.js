@@ -20,13 +20,13 @@ export default class Portfolio extends Component {
             <h3 className="mt-3 mb-0 font-weight-bold">Portfolio</h3>
             <hr className="mt-3 mb-4" />
             <div className="row text-center">
+              <PortfolioCard image={lotr} href={'https://blakelmason.github.io/react-clicky-game/'} text="Clicky Game" />
               <PortfolioCard image={hangman} href={'https://blakelmason.github.io/projects/hangman-adventure/index.html'} text="Hangman Adventure!" />
+              <PortfolioCard image={burger} href={'https://morning-scrubland-74719.herokuapp.com/'} text="Eat-Da-Burger" />
               <PortfolioCard image={dnd} href={'https://aaronsy1.github.io/firstGroupProject/spells.html'} text="D&D Tool" />
               <PortfolioCard image={darkSouls} href={'https://blakelmason.github.io/projects/giphy-tool/index.html'} text="Giphy Tool" />
               <PortfolioCard image={trivia} href={'https://blakelmason.github.io/projects/trivia-game/index.html'} text="Trivia Game" />
               <PortfolioCard image={pokemon} href={'https://immense-temple-68040.herokuapp.com/'} text="Pokemon Picker" />
-              <PortfolioCard image={burger} href={'https://morning-scrubland-74719.herokuapp.com/'} text="Eat-Da-Burger" />
-              <PortfolioCard image={lotr} href={'https://blakelmason.github.io/react-clicky-game/'} text="Clicky Game" />
             </div>
           </div>
         </div>
