@@ -8,6 +8,7 @@ import darkSouls from '../../images/darkSouls.gif';
 import trivia from '../../images/trivia.gif';
 import pokemon from '../../images/pokemon.gif';
 import burger from '../../images/burger.gif';
+import lotr from '../../images/lotr.gif';
 import fill from '../../images/fill.jpg';
 
 export default class Portfolio extends Component {
@@ -25,6 +26,7 @@ export default class Portfolio extends Component {
               <PortfolioCard image={trivia} href={'https://blakelmason.github.io/projects/trivia-game/index.html'} text="Trivia Game" />
               <PortfolioCard image={pokemon} href={'https://immense-temple-68040.herokuapp.com/'} text="Pokemon Picker" />
               <PortfolioCard image={burger} href={'https://morning-scrubland-74719.herokuapp.com/'} text="Eat-Da-Burger" />
+              <PortfolioCard image={lotr} href={'https://blakelmason.github.io/react-clicky-game/'} text="Clicky Game" />
             </div>
           </div>
         </div>
